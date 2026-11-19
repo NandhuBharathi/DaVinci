@@ -1,0 +1,8 @@
+state.db
+**/state.db
+.env
+.env.*
+*.optimizer
+*.scheduler
+*.adaptive
+*.tmp

@@ -1,0 +1,16 @@
+
+SAMPLE
+ID: BRAKE_001
+CONTENT: A brake disc converts kinetic energy into thermal energy through friction.
+WORD_GUIDANCE:
+brake_disc	braking_component
+converts	energy_transformation
+kinetic_energy	motion_energy
+thermal_energy	heat_energy
+friction	surface_interaction
+RELATIONSHIPS:
+brake_disc	interacts_through	friction
+kinetic_energy	transforms_into	thermal_energy
+CONTEXT: technical_explanation
+END_SAMPLE
+
