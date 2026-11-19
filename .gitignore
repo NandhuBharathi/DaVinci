@@ -6,3 +6,19 @@ state.db
 *.scheduler
 *.adaptive
 *.tmp
+# Rust build output
+/target/
+# Training data - stored separately
+/data/
+# Local database and runtime state
+*.checkpoint
+*.ckpt
+*.log
+# Secrets and local environment
+*.pem
+*.key
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
